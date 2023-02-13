@@ -5,11 +5,11 @@
 </p> -->
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
-  ![habits](https://user-images.githubusercontent.com/93550467/215266750-14b36c4a-be76-492e-8dd8-1117faa0061c.gif)
+ 
   
   
 <br>

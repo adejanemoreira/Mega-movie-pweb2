@@ -8,7 +8,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
- ![image](https://user-images.githubusercontent.com/93550467/218569574-f9d270d3-9422-4d4a-95f6-7df61a291658.png);
+![image](https://user-images.githubusercontent.com/93550467/218572758-0dc14fba-3846-4352-a0d1-2a97a86886b9.png)
   
 <br>
 

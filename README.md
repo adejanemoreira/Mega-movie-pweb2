@@ -8,9 +8,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
- 
-  
+ ![image](https://user-images.githubusercontent.com/93550467/218569574-f9d270d3-9422-4d4a-95f6-7df61a291658.png);
   
 <br>
 
@@ -25,11 +23,11 @@
 ## Web
 
 #### API utilizada
-TMD
+TMDB - Filmes e séries
 
 ## 💻 Projeto
 
-O projeto consiste em um app que utiliza uma API - 
+O projeto consiste em um app que utiliza uma API externa para retornar filmes e séries. 
 
 ## 🔖 Layout
 

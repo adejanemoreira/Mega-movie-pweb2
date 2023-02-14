@@ -31,5 +31,5 @@ O projeto consiste em um app que utiliza uma API externa para retornar filmes e 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Fv7lwKEURNSs9lEDM2RrgF/megaMovie?node-id=0%3A1&t=keCQ8m3wlwo2k1Q5-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
